@@ -3,7 +3,7 @@ this is a COM debug tool!just for best!
 
 ##how to start
 * 1.下载python3 
-* 
+
 https://www.python.org/downloads/
 
 * 2.安装wxpython
@@ -16,6 +16,7 @@ NOTICE:如果提示缺少部件，可能需要安装vc2008
 
 * 3.安装IDE
 推荐pycharm，python专用。
+
 http://www.jetbrains.com/pycharm/
 
 * 4.资源
