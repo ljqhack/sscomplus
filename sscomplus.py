@@ -1,6 +1,4 @@
 __author__ = 'Administrator'
-
-
 import wx
 import device
 import binascii
